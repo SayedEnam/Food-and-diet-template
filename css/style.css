@@ -46,9 +46,10 @@ section{
     display: flex;
     margin-bottom: 80px;
 }
-.about-section{
+.about-section {
     background-image: url(../images/bg.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .about-left-side {
     width: 50%;
